@@ -1,6 +1,5 @@
-# Personal data — never commit these
-Job_Applications/*/
-!Job_Applications/tracker.csv
+# This is Eric's PRIVATE repo: company folders (JDs, resumes, cover letters) ARE committed.
+# Never make this repo public.
 
 # Logs
 find_jobs_log_*.txt

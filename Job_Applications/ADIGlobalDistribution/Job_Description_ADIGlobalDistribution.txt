@@ -1,0 +1,41 @@
+Company: ADI Global Distribution
+Role: Quality Engineering Supervisor (field quality / returns)
+Location: 1355 W Innovation Way Suite 125, Lehi, UT 84043 (also Charlotte, NC). HYBRID.
+Salary: $92,570 - $157,630 per year (varies by location)
+Posted: 2026-11-02 (LinkedIn), employer Job ID 19806. Full-time, Mid-Senior. No visa sponsorship.
+URL: https://www.linkedin.com/jobs/view/quality-engineering-supervisor-at-adi-global-distribution-4484605582
+Retrieved: 2026-11-05
+
+SUMMARY
+Owns field quality across ADI's Exclusive Brands product lines globally: quality holds, stop-ship decisions, warranty claims, returns, and non-conforming inventory, turning field and returns data into actions for Engineering, Procurement, and Operations. Partners with Tech Support, Warehouse, Finance, Sales, and regional leadership. Supervises quality technicians.
+
+JOB DUTIES
+- Own the field quality function across US, UK, and Australia
+- Manage the quality hold process (place, track, release via quality hold board)
+- Lead stop-ship decisions and execution per stop-ship SOP; coordinate containment with Warehouse, Sales, Tech Support
+- Oversee returns processes (RMA, DRMA, SRMA, return-to-vendor), including RTV approval
+- Partner with Engineering and Procurement on root cause and supplier corrective action for field failures
+- Partner with Finance on warranty/returns/non-conforming inventory costs; with Safety/Legal on product safety
+- Prepare and present quality KPIs, DRMA trends, and goals for the monthly business review
+- Use analytics and dashboards to identify field quality trends
+- Maintain and improve quality SOPs, trackers, documentation
+- Supervise, coach, and develop quality technicians across regions
+
+YOU MUST HAVE
+- 5+ years in quality, field quality, or returns management for hardware or electronics products
+- Experience managing quality holds, stop-ship, containment, non-conforming material disposition
+- Experience with RMA, warranty, and return-to-vendor processes
+- Root cause analysis / corrective action methods (8D, 5 Whys, Fishbone)
+- ERP systems (SAP preferred) for inventory and returns transactions
+- Building and presenting quality KPIs to leadership
+- Supervising people or leading a team
+
+WE VALUE
+- Supporting multiple regions or global operations
+- Jira, Confluence, SharePoint, Power BI
+- AI or advanced analytics tools for quality data
+- Incoming quality inspection and supplier quality management
+- Distribution or connected/IoT hardware products
+
+BENEFITS: life and health insurance, life assistance, AD&D, disability, 401k, vacation and holidays.
+About: ADI is a global distributor of security, AV, and smart-living technology (110,000+ customers).
