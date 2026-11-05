@@ -1,0 +1,121 @@
+{
+  "company_key": "LVT",
+  "title_line": "Technical Program Manager, Hardware  |  PMP  |  CSPO",
+  "summary": "Program and product leader who has run hardware programs from prototype into production and owned software used in the field by thousands of people. At Lion Energy, Eric coordinated electrical, mechanical, firmware, software, and manufacturing teams to move the PPG2500 portable power station into production and take two more products through prototype, while working through tradeoffs on weight, battery configuration, packaging, and cost. At Aptive he was product owner for software used by more than 2,000 seasonal reps, coordinating about 12 developers across shared and overseas teams. He set up Agile, Scrum, Jira, and Confluence at Lion so leaders could see progress and blockers without chasing people. He wants to bring that hardware and field experience to feature programs on deployed, solar-powered site units.",
+  "skills": [
+    "End-to-end program ownership",
+    "Hardware, firmware, and software coordination",
+    "Prototype, validation, and production milestones",
+    "Testing and certification (FCC, UL, drop test)",
+    "Risk, dependency, and schedule management",
+    "Backlog prioritization",
+    "Agile and Scrum",
+    "Jira and Confluence",
+    "Overseas manufacturing partners",
+    "Status reporting to leadership"
+  ],
+  "roles": [
+    {
+      "title": "Product Owner (promoted from Project Manager)",
+      "company": "Lion Energy",
+      "location": "American Fork, UT",
+      "dates": "May 2024 – June 2025",
+      "scope": "Ran product development and technology programs for portable power stations, solar products, and accessories across engineering, QA, manufacturing partners in China and Vietnam, and the warehouse. Promoted from project manager to product owner after two months.",
+      "bullets": [
+        "Moved the PPG2500/PPG2500x portable power station program into production.",
+        "Took the Peak product line and Safari cart through prototype development.",
+        "Coordinated requirements, engineering design discussions, prototypes, testing, documentation, and production preparation with electrical, mechanical, firmware, software, and manufacturing stakeholders.",
+        "Facilitated decisions when technical requirements conflicted with cost, packaging, weight, or manufacturing goals, including battery configuration and internal component placement.",
+        "Coordinated testing, packaging validation, and certification activities for FCC, UL, and packaging drop tests.",
+        "Introduced Agile and Scrum, organized Jira and Confluence workflows and statuses, and wrote a technology department handbook covering project management, QA, rollback, and launch procedures.",
+        "Improved visibility into project progress, blockers, and cross-functional dependencies.",
+        "Cut root cause investigation time on field returns from months to about one week and improved the return-to-resolution workflow about 50%, feeding defect data back to engineering and suppliers."
+      ]
+    },
+    {
+      "title": "Product Owner (promoted from Project Manager)",
+      "company": "Aptive Environmental",
+      "location": "Provo, UT",
+      "dates": "Dec 2021 – May 2024",
+      "scope": "Owned software products and enterprise technology programs for a national services company, working with engineering, operations, finance, sales, legal, and executive leadership.",
+      "bullets": [
+        "Product Owner for software used by more than 2,000 seasonal sales reps; managed requirements, backlog priorities, releases, and defect resolution.",
+        "Coordinated about 12 technical development resources, including shared and overseas contributors.",
+        "Coordinated a major data and technology migration covering planning, technical dependencies, APIs and integrations, testing, validation, and cutover, contributing to an estimated $3 million or more in annual recurring savings.",
+        "Coordinated rollouts of Five9, Cresta AI sales coaching, CRM integrations, SMS, chatbot, and lead routing.",
+        "Supported TCPA, consent, do-not-call, and PCI-related payment controls in the products the team built.",
+        "Contributed to a reported 29% relative drop in onboarding dropout from a baseline of about 25%."
+      ]
+    },
+    {
+      "title": "Inside Sales Representative",
+      "company": "Vivint Smart Home",
+      "location": "Provo, UT",
+      "dates": "June 2026 – Present",
+      "scope": "",
+      "bullets": [
+        "Sells connected smart-home and energy-management systems; leads a 70% attachment rate on the Smart Comfort program and keeps sales-to-install completion above 90%."
+      ]
+    },
+    {
+      "title": "Project Manager (Independent Contractor)",
+      "company": "H and H Homes",
+      "location": "Lehi, UT",
+      "dates": "June 2025 – June 2026",
+      "scope": "",
+      "bullets": [
+        "Ran residential construction jobs start to finish; put SOPs, inventory tracking, equipment maintenance, fleet management, and quality and safety controls in place."
+      ]
+    },
+    {
+      "title": "Area Manager, Post-Sale Operations",
+      "company": "ION Solar",
+      "location": "Las Vegas and Arizona markets (based in Orem, UT)",
+      "dates": "June 2021 – Dec 2021",
+      "scope": "",
+      "bullets": [
+        "Tracked residential solar projects from sale through installation, inspection, utility requirements, and permission to operate; contributed to a 57% increase in PTO processing rate."
+      ]
+    },
+    {
+      "title": "Junior Project Manager",
+      "company": "K-Designers",
+      "location": "West Valley City, UT",
+      "dates": "Jan 2020 – June 2021",
+      "scope": "",
+      "bullets": [
+        "Scheduled crews and up to ten contractors on remodeling jobs, and matched material orders to project schedules."
+      ]
+    },
+    {
+      "title": "Analytics Manager (four progressive roles)",
+      "company": "Vivint Smart Home",
+      "location": "Provo, UT",
+      "dates": "Jan 2011 – Jan 2019",
+      "scope": "Moved from inside sales to account manager, analytics manager, and enterprise partner sales and training.",
+      "bullets": [
+        "Coordinated a four-person analytics team that built sales and installation dashboards, supporting a reported 34% relative improvement in sales-to-install conversion.",
+        "Built risk scoring to flag installations likely to cancel or stall.",
+        "Helped grow an installation-support department from more than 20 reps to more than 50."
+      ]
+    }
+  ],
+  "earlier": [
+    "Lead Home Manager, Lindon Care and Training (2009–2011); Fabrication Worker, AA Machine and Welding (2007–2009); Concrete Foreman, Paramount Homes (2004–2006)."
+  ],
+  "education": [
+    "Bachelor of Business Administration (Business Management), Utah Valley University",
+    "Project Management Professional (PMP), Project Management Institute, 2021",
+    "Certified Scrum Product Owner (CSPO), 2023"
+  ],
+  "cover_letter": {
+    "date": "November 5, 2026",
+    "company": "LVT",
+    "role": "Technical Program Manager - Hardware",
+    "paragraphs": [
+      "Hardware programs rarely slip because of one big failure. They slip because firmware, packaging, and the factory each make a reasonable call that nobody else saw coming. Keeping those calls visible is the job I've been doing.",
+      "At Lion Energy I ran the PPG2500 portable power station from development into production and took two more products through prototype. The work was full of tradeoffs between weight, battery configuration, component placement, and cost, and my role was getting electrical, mechanical, firmware, and our manufacturers in China and Vietnam to decide together. I set up Scrum, Jira, and Confluence so leaders could see blockers without chasing people for updates. Before that, at Aptive, I owned software used by more than 2,000 reps and coordinated about 12 developers across shared and overseas teams.",
+      "But the part of this role that stands out is the field. LVT's units are solar powered and deployed in the real world, which is exactly where my returns work at Lion lived. I cut root cause investigations from months to about a week by getting field data back to engineering fast. I'd like to show you how I'd run feature programs across your deployed and next generation models. Could we talk next week?"
+    ]
+  }
+}

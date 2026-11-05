@@ -1,0 +1,14 @@
+Cover letter notes: LVT (LiveView Technologies), Technical Program Manager - Hardware
+
+ASSUMPTIONS FOR ERIC TO VERIFY
+1. "I ran the PPG2500 portable power station from development into production." Master profile says he "supported progression of the PPG2500 program into production" and "managed and coordinated development." Make sure he's comfortable with "ran."
+2. "I set up Scrum, Jira, and Confluence so leaders could see blockers without chasing people for updates." Master profile: introduced Agile/Scrum, organized Jira and Confluence, improved visibility into progress and blockers. The "without chasing people" phrasing is ours.
+3. Smartsheet is named in the JD and isn't on file. If he has used it, add it.
+4. The resume header uses "Technical Program Manager, Hardware" as the target title. His actual titles were Project Manager and Product Owner; the experience section shows those accurately.
+5. LVT does a drug screen and background check; some roles need a federal background check.
+6. In person in American Fork, 5 to 15% travel.
+
+THREE SENTENCES MOST AT RISK OF SOUNDING AI-WRITTEN (rewrite in your own voice)
+1. "Hardware programs rarely slip because of one big failure."
+2. "Keeping those calls visible is the job I've been doing."
+3. "But the part of this role that stands out is the field."

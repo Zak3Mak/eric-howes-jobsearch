@@ -1,0 +1,65 @@
+Company: LVT (LiveView Technologies)
+Role: Technical Program Manager - Hardware
+Location: American Fork, UT. In person at the American Fork office. Travel ~5-15%.
+Salary: Not listed
+Posted: ~2 days ago (as of 2026-11-05). Full-time.
+URL: https://www.linkedin.com/jobs/view/technical-program-manager-hardware-at-lvt-liveview-technologies-4486459889
+Retrieved: 2026-11-05
+
+ABOUT LVT
+AI-driven site intelligence and security. Pioneered mobile, solar-powered units; now building next-generation physical units and an agentic AI platform.
+
+ABOUT THIS ROLE
+Own delivery of new features for LVT's deployed hardware models and next-generation models in development. Run programs end to end (scope, schedule, cross-team dependencies, risk, release) across firmware, hardware, backend software, and go-to-market. Clear stakeholder communication; aggressive prioritization.
+
+RESPONSIBILITIES
+- Own feature programs end to end: scope, schedule, dependencies, risk, from intake through release to the field
+- Deliver features for models in development: align feature timelines with hardware milestones across prototyping, validation, production
+- Resolve cross-team blockers across firmware, hardware, backend; escalate only risks needing a leadership decision
+- Prioritize aggressively; protect the critical path; make tradeoffs visible
+- Communicate without surprises; tailor updates to each audience
+- Build visibility: roadmaps, dashboards, status reporting in Jira, Confluence, Smartsheet
+- Recover slipping programs with options and a recommendation
+- Pressure-test plans and estimates using knowledge of hardware, firmware, cloud architecture
+- Improve how the team operates: templates, status reporting, ceremonies; onboard and interview TPMs
+
+IDEAL CANDIDATE
+- Program ownership: ran programs end to end with minimal supervision; shipped features/products on time and on scope
+- Technical credibility: understands systems well enough to identify risk and challenge estimates (not required to be an engineer)
+- Clear communicator: concise, adjusts to audience, surfaces bad news early
+- Prioritization discipline: says no to work that doesn't serve the plan and explains the tradeoff
+- Cross-functional influence across Product, Software, Firmware, Hardware
+- Judgment on escalation
+- Experience: likely 3-6 years in technical program management or related role; fluency in Jira, Confluence, Smartsheet, or similar
+- A Plus: hardware + edge + cloud products, including validation, manufacturing, or supply chain
+
+BENEFITS: health, dental, vision, 401k match up to 4%, flexible PTO. Drug screen and background check; some roles federal background check.
+
+## FIT EVALUATION
+### JD ↔ Row Match
+- Tracker Role: Technical Program Manager - Hardware / JD Title: same / Match: yes
+### Location
+- American Fork, UT, in person. In metro_cities. Pass.
+### Required Qualifications
+- "run programs end to end with minimal supervision... shipped on time" — ✅ — Lion Energy: PPG2500 into production; Aptive: product owner for software used by 2,000+ reps
+- "understand the systems your programs touch well enough to identify risk" — ✅ — Lion: weighed battery configuration, weight, component placement, hardware/software/manufacturing tradeoffs with electrical, mechanical, firmware, software stakeholders
+- "write and speak concisely, adjust to your audience, surface bad news early" — ✅ — executive reporting at Aptive and Vivint
+- "say no to work that doesn't serve the plan" — ✅ — backlog prioritization as product owner (Aptive, Lion)
+- "earn trust across Product, Software, Firmware, and Hardware" — ✅ — Lion cross-functional product development
+- "know which risks to solve yourself and which to raise" — ⚠️ — facilitated stakeholder decisions on conflicting requirements at Lion; no specific escalation story on file
+- "3–6 years of experience in technical program management or a related role, with fluency in Jira, Confluence, Smartsheet" — ✅ — PM/product owner Dec 2021 to June 2025 (about 3.5 yrs) plus PMP; Jira and Confluence (Smartsheet not on file)
+### Preferred Qualifications
+- "hardware+edge+cloud products including validation, manufacturing, or supply chain" — ✅ — Lion: connected portable power, testing, certification, overseas manufacturing
+### Match Math
+- Required: 6 / 7 = 86%
+- Preferred: 1 / 1 = 100%
+### Recommendation
+- Status: JD DOWNLOADED - GOOD FIT
+- Directly matches his Lion Energy hardware program work; LVT's units are solar-powered, which fits his energy focus.
+### Key Strengths
+- Took a hardware product into production and others through prototype
+- Product owner coordinating overseas engineering and manufacturing
+- PMP, CSPO, Jira, Confluence
+### Key Gaps
+- Smartsheet not on file
+- Title history says Project Manager / Product Owner rather than TPM
