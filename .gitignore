@@ -1,0 +1,34 @@
+# Personal data — never commit these
+Job_Applications/*/
+!Job_Applications/tracker.csv
+
+# Logs
+find_jobs_log_*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Temp / lock files
+*.tmp
+.~lock.*
+
+# OS
+.DS_Store
+Desktop.ini
+Thumbs.db
+
+# Scratch files
+PUSH_TO_GITHUB.md
+push-instructions.md
+push-to-github.bat
+jobsearch-repo/
+
+# Personal references (contact details)
+references.md
+
+# Local Python env
+.venv/

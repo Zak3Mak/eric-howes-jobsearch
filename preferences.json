@@ -1,0 +1,90 @@
+{
+  "_note": "Edit preferences.md (human-readable) then run scripts/sync_preferences.py to refresh this file, or edit this file directly. find_jobs.py reads this JSON.",
+  "target_titles": [
+    "Operations Manager",
+    "Warehouse Manager",
+    "Inventory Manager",
+    "RMA Manager",
+    "Quality Manager",
+    "Quality Assurance Manager",
+    "Continuous Improvement Manager",
+    "Lean Manager",
+    "Project Manager",
+    "Senior Project Manager",
+    "Program Manager",
+    "Technical Program Manager",
+    "Product Owner",
+    "Product Manager",
+    "Director of Operations"
+  ],
+  "boolean_queries": [
+    "(\"Operations Manager\" OR \"Program Manager\") AND (energy OR solar OR battery OR \"energy management\")",
+    "(\"Quality Manager\" OR \"Quality Assurance Manager\") AND (hardware OR energy OR manufacturing)",
+    "(\"Warehouse Manager\" OR \"Inventory Manager\" OR \"RMA Manager\") AND (electronics OR energy OR hardware)",
+    "\"Continuous Improvement\" AND (Lean OR \"Six Sigma\") AND (manager OR lead)"
+  ],
+  "location": {
+    "primary_city": "Orem",
+    "primary_state": "UT",
+    "remote_ok": true,
+    "hybrid_ok": false,
+    "max_commute_miles": 20,
+    "metro_cities": [
+      "Orem",
+      "Provo",
+      "Lehi",
+      "American Fork",
+      "Lindon",
+      "Pleasant Grove",
+      "Spanish Fork",
+      "Springville",
+      "Vineyard",
+      "Saratoga Springs"
+    ]
+  },
+  "compensation": {
+    "min_salary_usd": 80000,
+    "target_salary_usd": 95000,
+    "high_comp_threshold_usd": 130000
+  },
+  "skill_keywords": [
+    "lean",
+    "RMA",
+    "inventory",
+    "warehouse",
+    "quality assurance",
+    "project management",
+    "product owner",
+    "agile",
+    "scrum",
+    "jira",
+    "compliance",
+    "continuous improvement",
+    "energy",
+    "solar",
+    "operations"
+  ],
+  "hard_credentials_to_skip": [
+    "PhD required",
+    "MD required",
+    "JD required",
+    "PE license required",
+    "active security clearance required"
+  ],
+  "auto_skip_title_patterns": [
+    "\\bintern(ship)?\\b",
+    "^junior\\b",
+    "^entry[- ]level\\b",
+    "^apprentice\\b",
+    "sales rep(resentative)?",
+    "account executive",
+    "inside sales",
+    "outside sales",
+    "door[- ]to[- ]door",
+    "\\bsdr\\b",
+    "\\bbdr\\b",
+    "business development rep",
+    "commission[- ]only",
+    "commission[- ]based"
+  ]
+}
