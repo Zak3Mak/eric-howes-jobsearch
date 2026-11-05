@@ -21,7 +21,7 @@
 ## Location & Remote
 - **Primary location:** Orem, UT
 - **Open to remote?** Yes (full remote)
-- **Open to hybrid?** No — Utah County in-person or full remote only
+- **Open to hybrid?** Yes (confirmed 2026-11-05) — Utah County on-site or hybrid, or full remote
 - **Maximum commute radius:** Utah County (about 20 mi)
 - **Other acceptable metros / cities:** Provo, Lehi, American Fork, Lindon, Pleasant Grove, Spanish Fork, Springville, Vineyard, Saratoga Springs
 - **Locations that disqualify a role:** Anything outside Utah County unless fully remote

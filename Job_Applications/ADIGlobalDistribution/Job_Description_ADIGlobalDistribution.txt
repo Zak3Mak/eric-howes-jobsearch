@@ -39,3 +39,48 @@ WE VALUE
 
 BENEFITS: life and health insurance, life assistance, AD&D, disability, 401k, vacation and holidays.
 About: ADI is a global distributor of security, AV, and smart-living technology (110,000+ customers).
+
+## FIT EVALUATION
+### JD ↔ Row Match
+- Tracker Role: Quality Engineering Supervisor
+- JD Title: Quality Engineering Supervisor
+- Match: yes
+
+### Location
+- JD location: Lehi, UT, hybrid
+- Preferences: remote_ok=true, hybrid_ok=true, metro_cities include Lehi
+- Decision: pass
+
+### Required Qualifications
+- "5+ years Experience in quality, field quality, or returns management for hardware" — ⚠️ — Lion Energy QA and returns (about 1 yr); Vivint install-quality analytics and risk scoring (2013–2017)
+- "managing quality holds, stop-ship, containment, and non-conforming material disposition" — ⚠️ — defect investigation and supplier corrective action at Lion; no stop-ship on file
+- "Experience with RMA, warranty, and return-to-vendor processes" — ✅ — Lion partner-return operation (~10,000/yr), RMA workflow 50% faster
+- "root cause analysis and corrective action methods" — ✅ — Lion root cause turnaround months to about a week; supplier corrective action
+- "ERP systems (SAP preferred) for inventory and returns transactions" — ❌ — not on file (asked Eric)
+- "building and presenting quality KPIs and metrics to leadership" — ✅ — Vivint analytics manager dashboards; Aptive executive reporting
+- "Experience supervising people or leading a team" — ✅ — Vivint (20 to 50+ reps), four-person analytics team, Lindon Care staff
+
+### Preferred Qualifications
+- "supporting multiple regions or global operations" — ✅ — suppliers in China and Vietnam; ION Solar Las Vegas and Arizona markets
+- "Jira, Confluence, SharePoint, and Power BI" — ⚠️ — Jira and Confluence yes; SharePoint and Power BI not on file
+- "AI or advanced analytics tools for quality data" — ⚠️ — analytics background; coordinated AI sales-coaching rollout at Aptive (not quality)
+- "incoming quality inspection and supplier quality management" — ✅ — receiving and inspection procedures, supplier corrective action at Lion
+- "distribution or with connected/IoT hardware products" — ✅ — Vivint smart home; Lion connected power products
+
+### Match Math
+- Required: 4 / 7 = 57% (two partials; scored as borderline because both partials have close proxies)
+- Preferred: 3 / 5 = 60%
+
+### Recommendation
+- Status: JD DOWNLOADED - BORDERLINE FIT - HIGH COMP
+- Strong functional match on returns, RMA, and root cause, high pay ceiling, short on years.
+
+### Key Strengths for This Role
+- Ran the exact returns-to-root-cause loop the JD describes, with numbers
+- Connected-hardware and smart-home background on both sides (sales and quality)
+- KPI reporting to leadership and team supervision
+
+### Key Gaps
+- About 1 year of direct hardware quality, not 5
+- No SAP or ERP experience on file
+- No documented stop-ship decisions

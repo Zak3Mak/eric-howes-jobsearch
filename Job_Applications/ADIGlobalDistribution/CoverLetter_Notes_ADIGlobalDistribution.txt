@@ -1,0 +1,15 @@
+Cover letter notes: ADI Global Distribution, Quality Engineering Supervisor
+
+ASSUMPTIONS FOR ERIC TO VERIFY
+1. "When I started, a root cause investigation could take months." Based on the master profile ("from months to approximately one week"). Confirm that's how it was when he joined.
+2. "Return to resolution time fell roughly 50%" and "yearly RMAs fell 10%" and "partner returns fell 15% over several months" are listed as three separate results. Be ready to explain each in an interview.
+3. "$100,000 in first year savings" is an estimate from the master profile.
+4. Resume line "Keeps sales-to-install completion above 90%" is our wording of "ensure sales installs averaging above 90%". Confirm the meaning.
+5. This role is HYBRID in Lehi (Eric OK'd hybrid) and asks for 5+ years in hardware quality or returns. Eric has about 1 year directly (Lion Energy) plus Vivint install-quality analytics. Expect the question.
+6. The JD asks for SAP or another ERP for returns transactions. Nothing about ERP is on file. If Eric used an ERP at Lion Energy, tell us which one and we'll add it.
+7. Search confidentiality: ADI distributes smart-home and security products, the same space as Vivint. Eric said that's fine.
+
+THREE SENTENCES MOST AT RISK OF SOUNDING AI-WRITTEN (rewrite in your own voice)
+1. "Returns data only matters when it reaches the people who can fix the part."
+2. "But what pulls me toward ADI is the product."
+3. "I know what a failed device costs an installer and the customer behind them."

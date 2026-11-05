@@ -3,7 +3,7 @@
 ## Contact
 - **Full Name:** Eric Howes
 - **Email:** howesfamilyhomes@gmail.com
-- **Phone:** 801-687-1022
+- **Phone:** (801) 367-6743 (from Eric's master resume; LinkedIn lists 801-687-1022 as home)
 - **City, State (or City, Country):** Orem, Utah
 - **LinkedIn URL:** linkedin.com/in/eric-howes-utah
 - **Portfolio / Website (optional):**

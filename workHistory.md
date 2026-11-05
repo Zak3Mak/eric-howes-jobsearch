@@ -75,7 +75,8 @@ Operations, project, and product professional with 20+ years across construction
 **Scope:** Coordinated portable energy product development, technology project execution, international supplier relationships, engineering requirements, product quality, and cross-functional operations across engineering, QA, manufacturing, warehouse, and business leadership.
 
 **Key Accomplishments:**
-- Helped reduce partner product returns by 15% over several months [CONFIRM vs. earlier "10% reduction in yearly RMAs"; see open items].
+- Reduced yearly RMAs by 10% (Eric).
+- Helped reduce partner product returns by 15% over several months (master profile). Both figures are used; they measure different things.
 - Improved the return-to-resolution workflow by approximately 50%.
 - Cut root-cause investigation turnaround from months to approximately one week.
 - Supported improvements in a partner-return operation handling approximately 10,000 returns annually.
@@ -176,7 +177,7 @@ Operations, project, and product professional with 20+ years across construction
 ---
 
 ## OPEN ITEMS (resolve before generating materials)
-1. **Lion Energy returns metric:** Eric said "10% reduction on yearly RMAs"; master profile says 15% reduction in partner returns. Which is right, and which measure?
+1. ~~Lion Energy returns metric~~ RESOLVED 2026-11-05: use both (10% fewer yearly RMAs; 15% fewer partner returns over several months).
 2. **"Built the first QA function"** (LinkedIn) vs **"strengthened an existing QA function"** (master profile). Using the master profile.
 3. **Lion Energy partners:** LinkedIn says China, Vietnam, and India; master profile says China and Vietnam. Using China and Vietnam.
 4. **TCPA:** LinkedIn says "owned the annual TCPA audit"; master profile says "participated in audit-related work." Using the master profile.

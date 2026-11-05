@@ -27,7 +27,7 @@
     "primary_city": "Orem",
     "primary_state": "UT",
     "remote_ok": true,
-    "hybrid_ok": false,
+    "hybrid_ok": true,
     "max_commute_miles": 20,
     "metro_cities": [
       "Orem",

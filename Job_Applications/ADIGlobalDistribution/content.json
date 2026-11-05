@@ -1,0 +1,130 @@
+{
+  "company_key": "ADIGlobalDistribution",
+  "title_line": "Field Quality & Returns Leader  |  PMP  |  CSPO",
+  "summary": "Quality and operations leader who has run returns, root cause investigation, and supplier corrective action for hardware built overseas. At Lion Energy, Eric improved intake, barcode traceability, and defect documentation for a partner-return operation handling about 10,000 returns a year, cutting return-to-resolution time about 50% and root cause turnaround from months to roughly one week. Earlier roles at Vivint and Aptive added KPI reporting to executives, team supervision, and Jira and Confluence workflow design. He has sold and supported smart-home systems, so he knows what a field failure costs an installer and an end customer, and he wants to bring that view to field quality for connected hardware.",
+  "skills": [
+    "RMA, warranty, and return-to-vendor workflow",
+    "Root cause analysis and supplier corrective action",
+    "Barcode traceability and defect documentation",
+    "Quality KPIs and executive reporting",
+    "Quality SOPs and trackers",
+    "Supervising and training teams",
+    "Jira and Confluence",
+    "Overseas manufacturers (China, Vietnam)"
+  ],
+  "roles": [
+    {
+      "title": "Product Owner (promoted from Project Manager)",
+      "company": "Lion Energy",
+      "location": "American Fork, UT",
+      "dates": "May 2024 – June 2025",
+      "scope": "Owned quality and product coordination for portable power stations, solar panels, and accessories, working between the warehouse, engineering, QA, and manufacturing partners overseas.",
+      "bullets": [
+        "Improved the return-to-resolution workflow by about 50% in a partner-return operation handling roughly 10,000 returns a year.",
+        "Cut root cause investigation turnaround from months to about one week.",
+        "Reduced yearly RMAs by 10%, and helped reduce partner product returns by 15% over several months.",
+        "Strengthened the existing QA function with clearer receiving and inspection procedures, barcode-based product identification and return tracking, and defect documentation.",
+        "Coordinated supplier corrective action with manufacturers in China and Vietnam on recurring solar panel hinge, wiring, and frame defects.",
+        "Contributed to an estimated $100,000 in first-year savings across return processing, storage, and labor.",
+        "Got warehouse staff, engineering, quality, and suppliers working from the same failure data.",
+        "Coordinated testing and documentation for FCC, UL, and packaging drop-test certification on portable products.",
+        "Introduced Agile and Scrum, organized Jira and Confluence workflows, and wrote a technology department handbook covering QA, rollback, and launch procedures.",
+        "Moved the PPG2500 portable power station into production and took the Peak line and Safari cart through prototype."
+      ]
+    },
+    {
+      "title": "Inside Sales Representative",
+      "company": "Vivint Smart Home",
+      "location": "Provo, UT",
+      "dates": "June 2026 – Present",
+      "scope": "Sells smart-home and energy-management systems in Vivint's national inside sales group.",
+      "bullets": [
+        "Keeps sales-to-install completion above 90%.",
+        "Converts 30% of outbound leads.",
+        "Leads a 70% attachment rate and 50% install rate on Vivint's Smart Comfort energy-management program.",
+        "Trains and mentors new reps."
+      ]
+    },
+    {
+      "title": "Project Manager (Independent Contractor)",
+      "company": "H and H Homes",
+      "location": "Lehi, UT",
+      "dates": "June 2025 – June 2026",
+      "scope": "Ran residential construction jobs across Utah and Salt Lake counties from start to finish.",
+      "bullets": [
+        "Put construction management SOPs in place.",
+        "Added inventory tracking and an equipment maintenance program, and managed the vehicle fleet.",
+        "Set up quality and safety controls on job sites."
+      ]
+    },
+    {
+      "title": "Product Owner (promoted from Project Manager)",
+      "company": "Aptive Environmental",
+      "location": "Provo, UT",
+      "dates": "Dec 2021 – May 2024",
+      "scope": "Owned software and enterprise technology projects in a compliance-heavy business, working with engineering, operations, finance, legal, and executive leadership.",
+      "bullets": [
+        "Coordinated a major data and technology migration that contributed to an estimated $3 million or more in annual recurring savings by reducing vendor dependence.",
+        "Product Owner for software used by more than 2,000 seasonal sales reps; coordinated about 12 developers, including overseas contributors.",
+        "Contributed to a reported 29% relative drop in onboarding dropout from a baseline of about 25%.",
+        "Supported TCPA, consent, do-not-call, and PCI-related payment controls, and annual compliance audit work.",
+        "Contributed to estimated annual savings of about $250,000 on rent overpayments and $375,000 on vacancy and placement management."
+      ]
+    },
+    {
+      "title": "Area Manager, Post-Sale Operations",
+      "company": "ION Solar",
+      "location": "Las Vegas and Arizona markets (based in Orem, UT)",
+      "dates": "June 2021 – Dec 2021",
+      "scope": "",
+      "bullets": [
+        "Tracked solar projects from sale through install, inspection, and permission to operate, and cleared bottlenecks between departments.",
+        "Contributed to a 57% increase in PTO processing rate."
+      ]
+    },
+    {
+      "title": "Junior Project Manager",
+      "company": "K-Designers",
+      "location": "West Valley City, UT",
+      "dates": "Jan 2020 – June 2021",
+      "scope": "",
+      "bullets": [
+        "Managed remodeling jobs from sales handoff to completion, scheduling crews of one to six and coordinating up to ten contractors.",
+        "Ordered job materials and kept the warehouse and inventory organized for upcoming work."
+      ]
+    },
+    {
+      "title": "Analytics Manager (four progressive roles)",
+      "company": "Vivint Smart Home",
+      "location": "Provo, UT",
+      "dates": "Jan 2011 – Jan 2019",
+      "scope": "Moved from inside sales to account manager, analytics manager, and enterprise partner sales and training over eight years.",
+      "bullets": [
+        "Coordinated a four-person analytics team that built sales and installation dashboards, KPI reports, and commission tracking tools.",
+        "Supported a reported 34% relative improvement in sales-to-install conversion.",
+        "Helped grow an installation-support team from more than 20 to more than 50 reps, monitoring roughly 300 to 1,000 installation accounts a day.",
+        "Built risk scoring to flag installations likely to cancel or stall.",
+        "Contributed to more than $1 million in new annual revenue by developing and training independent partners."
+      ]
+    }
+  ],
+  "earlier": [
+    "Lead Home Manager, Lindon Care and Training (2009–2011): ran daily operations of a residential care home, including staff scheduling, training, safety drills, and incident reporting.",
+    "Fabrication Worker, AA Machine and Welding (2007–2009); Concrete Foreman, Paramount Homes (2004–2006); Flooring Installer, McKinnon Hardwood Floors (2002–2004)."
+  ],
+  "education": [
+    "Bachelor of Business Administration (Business Management), Utah Valley University",
+    "Project Management Professional (PMP), Project Management Institute, 2021",
+    "Certified Scrum Product Owner (CSPO), 2023"
+  ],
+  "cover_letter": {
+    "date": "November 5, 2026",
+    "company": "ADI Global Distribution",
+    "role": "Quality Engineering Supervisor",
+    "paragraphs": [
+      "Returns data only matters when it reaches the people who can fix the part. That's the problem I spent most of my time at Lion Energy working on, and it's the heart of the field quality job you've posted in Lehi.",
+      "Lion's partner return operation handled about 10,000 units a year. When I started, a root cause investigation could take months. I improved intake, barcode tracking, and defect documentation so engineering and our manufacturers in China and Vietnam had something they could act on. Investigations dropped to about a week. Return to resolution time fell roughly 50%, yearly RMAs fell 10%, and partner returns fell 15% over several months. We estimated about $100,000 in first year savings on processing, storage, and labor.",
+      "I've also spent years putting KPIs in front of leadership, first coordinating a four person analytics team at Vivint and later as a product owner at Aptive. But what pulls me toward ADI is the product. I've sold and supported smart home systems, and I know what a failed device costs an installer and the customer behind them. I'd like to walk you through how I'd run quality holds and returns across your regions. Could we set up a call next week?"
+    ]
+  }
+}
