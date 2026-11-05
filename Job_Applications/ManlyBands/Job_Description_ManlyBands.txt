@@ -50,17 +50,17 @@ BENEFITS: competitive pay and leave, quarterly free ring and discount, 401k with
 - "Experience in leading projects and initiatives to improve efficiency" — ✅ — Lion RMA workflow 50%, ION 57% PTO rate, Aptive migration
 - "Strong leadership skills to manage and inspire teams" — ✅ — Vivint team 20 to 50+
 - "Ability to develop and implement strategic plans" — ⚠️ — roadmap/backlog ownership at Aptive and Lion; no exec-team strategy role on file
-- "Understanding of budgeting, financial planning, and cost-benefit analysis" — ⚠️ — savings estimates ($3M+, $100K, $250K/$375K); no budget ownership on file
+- "Understanding of budgeting, financial planning, and cost-benefit analysis" — ✅ — has owned a team budget (Eric, 2026-11-05); savings estimates ($3M+, $100K, $250K/$375K)
 - "Skills in recruiting, training, and motivating employees" — ✅ — Vivint training programs; Lindon Care scheduling and training
 - "Proficiency in analyzing data to optimize operations" — ✅ — Vivint analytics manager, 34% conversion gain
 - "Familiarity with the latest technologies" — ✅ — Jira, Confluence, CRM, Five9, Cresta, AI coaching rollout
 - "Extensive experience working in a sales environment, specifically in eCommerce" — ⚠️ — 8+ years of sales environment at Vivint; no eCommerce
-- "Proficiency in Google Suite" — ⚠️ — not on file (likely trivial; confirm)
+- "Proficiency in Google Suite" — ✅ — Google Workspace (Eric, 2026-11-05)
 - "communication, interpersonal, and problem-solving skills" — ✅ — cross-department roles throughout
 ### Preferred Qualifications
 - None listed separately.
 ### Match Math
-- Required: 8 / 13 = 62%
+- Required: 9 / 13 = 69% (updated 2026-11-05 after Eric confirmed budget and Google Workspace)
 - Preferred: n/a
 ### Recommendation
 - Status: JD DOWNLOADED - BORDERLINE FIT
@@ -71,5 +71,4 @@ BENEFITS: competitive pay and leave, quarterly free ring and discount, 401k with
 - Team building and training at Vivint
 ### Key Gaps
 - No director-level or executive-team role on file
-- No P&L or budget ownership on file
 - No eCommerce

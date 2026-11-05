@@ -25,6 +25,7 @@ Operations, project, and product professional with 20+ years across construction
 - PMP (Dec 2021), CSPO (Apr 2023)
 
 ### Technology & Data
+- Google Workspace (Gmail, Sheets, Docs, Slides) (Eric, 2026-11-05)
 - Enterprise data/technology migration, APIs, integrations, reporting
 - Sales technology: Five9, Cresta, CRM integrations, SMS/chatbot, lead routing
 - Sales analytics, KPI dashboards, commission and performance tracking, risk scoring
@@ -32,6 +33,7 @@ Operations, project, and product professional with 20+ years across construction
 
 ### Leadership & Training
 - Workforce supervision, scheduling, training program design and delivery, mentoring
+- Has owned a budget for his team (Eric, 2026-11-05; role and dollar size not specified, so do not tie it to a specific employer or amount on a resume)
 - Executive and cross-functional communication
 
 ---
