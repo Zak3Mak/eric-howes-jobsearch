@@ -32,9 +32,9 @@
 - **High-comp override threshold:** $130,000
 
 ## Hard Disqualifiers (Never Apply)
-- **Industries to exclude:** None stated; avoid sales-driven roles (see title patterns)
+- **Industries to exclude:** Retail store management (confirmed 2026-11-06: "no retail store" roles, e.g. Walmart/Target store ops managers). Avoid sales-driven roles (see title patterns)
 - **Required credentials he doesn't have:** PhD, MD, JD, PE license, active security clearance
-- **Title patterns to auto-skip:** Sales Rep, Sales Representative, Account Executive, Inside Sales, Outside Sales, Door-to-Door, SDR, BDR, Business Development Rep, Intern, Junior, Entry-Level
+- **Title patterns to auto-skip:** Sales Rep, Sales Representative, Account Executive, Inside Sales, Outside Sales, Door-to-Door, SDR, BDR, Business Development Rep, Intern, Junior, Entry-Level, Store Manager, Retail (store) Manager
 
 ## Soft Preferences
 - **Company size preference:** [CONFIRM]
@@ -47,3 +47,4 @@
 
 ## Notes
 - Available immediately; searching while employed at Vivint.
+- **Contract roles are OK** (confirmed 2026-11-06), including 12–24 month contracts. Same pay floor applies.

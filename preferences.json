@@ -85,6 +85,12 @@
     "\\bbdr\\b",
     "business development rep",
     "commission[- ]only",
-    "commission[- ]based"
+    "commission[- ]based",
+    "store manager",
+    "\\bretail\\b"
+  ],
+  "contract_ok": true,
+  "excluded_industries": [
+    "retail store management"
   ]
 }
